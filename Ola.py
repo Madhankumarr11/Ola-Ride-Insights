@@ -1,1 +1,3 @@
-import panda
+import pandas as pd
+
+
